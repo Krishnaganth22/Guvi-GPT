@@ -1,4 +1,4 @@
-## Text Generation App with GPT-2
+# Text Generation App with GPT-2
 This repository contains a Streamlit web application for generating text using a fine-tuned GPT-2 model. The application allows users to input prompts and generate text based on these prompts, using a GPT-2 model that has been fine-tuned with custom data. The app also includes user authentication and logging functionality.
 
 # Table of Contents
@@ -38,5 +38,5 @@ If you would like to contribute to this project, please fork the repository and 
 # License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 ## Contact 
-# Linkedin Profile- https://www.linkedin.com/in/krishnaganth-m-468309251/
-Mail- krishnaganth2206@gmail.com
+## Linkedin Profile- https://www.linkedin.com/in/krishnaganth-m-468309251/
+## Mail- krishnaganth2206@gmail.com
