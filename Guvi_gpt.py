@@ -6,7 +6,7 @@ from datetime import datetime
 import pandas as pd
 
 # Load the fine-tuned model and tokenizer
-model_name_or_path = "/content/fine_tuned_model"
+model_name_or_path = "./fine_tuned_model"
 model = GPT2LMHeadModel.from_pretrained(model_name_or_path)
 tokenizer = GPT2Tokenizer.from_pretrained(model_name_or_path)
 
